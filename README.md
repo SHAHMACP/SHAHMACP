@@ -42,10 +42,8 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 
 ---
 
-### ⚡ Fun Fact:  
-I love **teaching data science** and exploring **real-world datasets** to uncover patterns!  
 
----
+I love **teaching data science** and exploring **real-world datasets** to uncover patterns!  
 
 ⭐ **Feel free to check out my repositories and collaborate!**  
 
