@@ -13,6 +13,8 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 - 📈 **Data Storytelling**: I believe in making data insights accessible through visualizations and reports.  
 
 ---
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/6f00f78b-3724-4fa0-875e-8fb466e12008)
+
 
 ## 🛠️ Technologies & Skills  
 **Programming & Tools:**  
