@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm SHAHMA CP
+ Hi there! 
+ # 👋 I'm SHAHMA CP
 
 ### 🚀 Data Analyst | Statistics Trainer | Machine Learning Enthusiast  
 
@@ -9,7 +10,7 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 ## 🔍 About Me  
 - 📊 **Data Analyst & Trainer**: Helping students and professionals understand data-driven decision-making.  
 - 🤖 **Machine Learning Enthusiast**: Working on predictive modeling, clustering, and statistical forecasting.  
-- 🎓 **Educator**: Teaching probability, statistics, and machine learning concepts.  
+- 🎓 **[Educator](https://github.com/yourusername/forecasting-retail-demand)**  : Teaching probability, statistics, and machine learning concepts.
 - 📈 **Data Storytelling**: I believe in making data insights accessible through visualizations and reports.  
 
 ---
@@ -27,19 +28,19 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 ---
 
 ## 📌 Featured Projects  
-🔹 **[Forecasting Retail Demand](https://github.com/yourusername/forecasting-retail-demand)**  
+🔹 **[Forecasting Retail Demand](https://github.com/SHAHMACP/Tcs-ion-Rio-125--Forecasting-Retail-Demand-SHAHMA)**  
 - Built a forecasting system for retail demand prediction using **ARIMA, Moving Averages, and Time Series models**.  
 
-🔹 **[Wine Quality Clustering](https://github.com/yourusername/wine-quality-clustering)**  
+🔹 **[Wine Quality Clustering](https://github.com/SHAHMACP/Wine-Clust-Unsupervised-learning)**  
 - Performed **PCA and DBSCAN clustering** to classify wine quality based on physicochemical properties.  
 
-🔹 **[EDA & Machine Learning Models](https://github.com/yourusername/eda-machine-learning)**  
+🔹 **[EDA & Machine Learning Models](https://github.com/SHAHMACP/Road-Traffic-Accident-Analysis)**  
 - Exploratory Data Analysis and model building for structured datasets.  
 
 ---
 
 ## 📫 Connect with Me  
-- 💼 **LinkedIn:** www.linkedin.com/in/shahma-cp-bb972b184 
+- 💼 **[LinkedIn](www.linkedin.com/in/shahma-cp-bb972b184)**  
 - 📧 **Email:** shahmarahiman6@gmail.com  
 
 ---
