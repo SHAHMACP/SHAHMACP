@@ -28,14 +28,12 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 ---
 
 ## 📌 Featured Projects  
-🔹 **[Forecasting Retail Demand](https://github.com/SHAHMACP/Tcs-ion-Rio-125--Forecasting-Retail-Demand-SHAHMA)**  
-- Built a forecasting system for retail demand prediction using **ARIMA, Moving Averages, and Time Series models**.  
+🔹 **[Forecasting Retail Demand](https://github.com/SHAHMACP/Tcs-ion-Rio-125--Forecasting-Retail-Demand-SHAHMA)**  : Built a forecasting system for retail demand prediction using **ARIMA, Moving Averages, and Time Series models**.  
+🔹 **[Image Recognition & Analysis](https://github.com/SHAHMACP/Wine-Clust-Unsupervised-learning)**  : This project explores and analyzes images of the 12 Wonders of the World using **computer vision** and basic data analytics techniques. 
 
-🔹 **[Wine Quality Clustering](https://github.com/SHAHMACP/Wine-Clust-Unsupervised-learning)**  
-- Performed **PCA and DBSCAN clustering** to classify wine quality based on physicochemical properties.  
+🔹 **[Wine Quality Clustering](https://github.com/SHAHMACP/Wine-Clust-Unsupervised-learning)**  : Performed **PCA and DBSCAN clustering** to classify wine quality based on physicochemical properties.  
 
-🔹 **[EDA & Machine Learning Models](https://github.com/SHAHMACP/Road-Traffic-Accident-Analysis)**  
-- Exploratory Data Analysis and model building for structured datasets.  
+🔹 **[EDA & Machine Learning Models](https://github.com/SHAHMACP/Road-Traffic-Accident-Analysis)**  : Exploratory Data Analysis and model building for structured datasets.  
 
 ---
 
