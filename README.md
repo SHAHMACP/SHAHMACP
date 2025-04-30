@@ -46,7 +46,11 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 ![](https://github-readme-stats.vercel.app/api?username=SHAHMACP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SHAHMACP&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAHMACP&theme=default" height="180em" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHMACP&theme=default"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 I love **teaching data science** and exploring **real-world datasets** to uncover patterns!  
 
