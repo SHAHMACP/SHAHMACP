@@ -42,7 +42,11 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 - 📧 **Email:** shahmarahiman6@gmail.com  
 
 ---
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SHAHMACP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SHAHMACP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
 I love **teaching data science** and exploring **real-world datasets** to uncover patterns!  
 
