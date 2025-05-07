@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 
 🔹 **[Wine Quality Clustering](https://github.com/SHAHMACP/Wine-Clust-Unsupervised-learning)**  : Performed **PCA and DBSCAN clustering** to classify wine quality based on physicochemical properties.  
 
-🔹 **[EDA & Machine Learning Models]([https://github.com/SHAHMACP/Road-Traffic-Accident-Analysis](https://github.com/SHAHMACP/Risk-Assessment-and-Loan-Approval))**  : Exploratory Data Analysis and model building for structured datasets.  
+🔹 **[EDA & Machine Learning Models](https://github.com/SHAHMACP/Risk-Assessment-and-Loan-Approval)**  : Exploratory Data Analysis and model building for structured datasets.  
 
 ---
 
