@@ -1,6 +1,7 @@
  Hi there! 
  # 👋 I'm SHAHMA CP
 
+
 ### 🚀 Data Analyst | Statistics Trainer | Machine Learning Enthusiast  
 
 Welcome to my GitHub! I'm passionate about **data analysis, machine learning, and statistics**. As a **Statistics Trainer** and **Data Analyst**, I love exploring data, building models, and sharing knowledge.  
@@ -50,13 +51,13 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHMACP&theme=default"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-I love **teaching data science** and exploring **real-world datasets** to uncover patterns!  
+  <p align="right">
+  <img src="https://github.com/user-attachments/assets/0ea605b3-5290-40ae-89fe-e7e3861b20d4" width="200">
+</p>
 
-⭐ **Feel free to check out my repositories and collaborate!**  
-
-
+I love <strong>teaching data science</strong> and exploring <strong>real-world datasets</strong> to uncover patterns!  
+⭐ <strong>Feel free to check out my repositories and collaborate!</strong>
 
 
 
