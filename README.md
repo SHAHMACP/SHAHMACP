@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 
 ## 🔍 About Me  
 - 📊 **[Data Analyst & Trainer](https://github.com/SHAHMACP/Hypothesis-Testing)**: Helping students and professionals understand data-driven decision-making.  
-- 🤖 **Machine Learning Enthusiast**: Working on predictive modeling, clustering, and statistical forecasting.  
+- 🤖 **[Machine Learning Enthusiast](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies)**: Working on predictive modeling, clustering, and statistical forecasting.  
 - 🎓 **[Educator](https://github.com/yourusername/forecasting-retail-demand)**  : Teaching probability, statistics, and machine learning concepts.
 - 📈 **Data Storytelling**: I believe in making data insights accessible through visualizations and reports.  
 
