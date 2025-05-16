@@ -66,9 +66,7 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHMACP&theme=default"/>
 
 
-  <p align="right">
-  <img src="https://github.com/user-attachments/assets/0ea605b3-5290-40ae-89fe-e7e3861b20d4" width="200">
-</p>
+  
 
 I love <strong>teaching data science</strong> and exploring <strong>real-world datasets</strong> to uncover patterns!  
 ⭐ <strong>Feel free to check out my repositories and collaborate!</strong>
