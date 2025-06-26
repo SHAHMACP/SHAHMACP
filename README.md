@@ -1,5 +1,5 @@
  Hi there! 
- # 👋 I'm SHAHMA CP
+ # 👋 [I'm SHAHMA CP](https://github.com/SHAHMACP/ShahmaCP_CV)
 
 
 ### 🚀 Data Analyst | Statistics Trainer | Machine Learning Enthusiast  
