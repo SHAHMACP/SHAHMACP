@@ -1,5 +1,5 @@
  Hi there! 
- # 👋 I'm [SHAHMA CP]([https://github.com/SHAHMACP/ShahmaCP_CV/blob/main/shahma%20cp%20(1)-1.pdf](https://github.com/SHAHMACP/ShahmaCP_CV/blob/main/SHAHMA%20CP_Data%20Science%20Trainer.pdf))
+ # 👋 I'm [SHAHMA CP](https://github.com/SHAHMACP/ShahmaCP_CV/blob/main/SHAHMA%20CP_Data%20Science%20Trainer.pdf)
 
 
 ### 🚀 Data Analyst | Statistics Trainer | Machine Learning Enthusiast  
