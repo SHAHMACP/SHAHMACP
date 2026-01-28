@@ -1,5 +1,9 @@
- Hi there! 
- # 👋 I'm [SHAHMA CP](https://github.com/SHAHMACP/ShahmaCP_CV/blob/main/SHAHMA%20CP_Data%20Science%20Trainer.pdf)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+SHAHMA+CP+%F0%9F%91%8B;Data+Analyst+%7C+Statistics+Trainer;Turning+Data+into+Stories+%F0%9F%93%8A%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br>
+
 
 
 ### 🚀 Data Analyst | Statistics Trainer | Machine Learning Enthusiast  
