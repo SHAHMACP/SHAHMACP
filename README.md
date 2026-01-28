@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://shahmacp-datasciencetrainer.lovable.app">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Explore%20Full%20Profile-6366f1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Personal Portfolio" />
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Personal Portfolio" />
   </a>
 </div>
 
