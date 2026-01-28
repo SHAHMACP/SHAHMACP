@@ -33,32 +33,46 @@ Dedicated and result-driven **Data Science Trainer** with strong expertise in **
 ---
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/6f00f78b-3724-4fa0-875e-8fb466e12008)
 
+---
 ### 🛠️ Skills
 
 #### Technical Skills
-- Machine Learning, Statistics, Python, Scikit-learn, Data Analysis, Roboflow, Image Preprocessing, GitHub, Power BI, Tableau, LaTeX, Excel, Statistical Analysis
-- **Core Libraries**: Pandas, NumPy, Matplotlib/Seaborn
-- **ML Techniques**: Predictive modeling, clustering (K-Means, DBSCAN, PCA), regression, classification, time series forecasting (ARIMA, Moving Averages)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Roboflow-EE4C2C?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
+- **Core Data Science & ML**: Machine Learning, Statistics, Data Analysis, Statistical Analysis, Predictive Modeling, Clustering, Time Series
+- **Deep Learning**: Neural Networks, Frameworks (TensorFlow, PyTorch)
+- **Web & Deployment**: Flask (for ML model serving/apps)
+- **Image & Computer Vision**: Image Preprocessing (via Roboflow)
+- **Tools & Visualization**: Power BI, Tableau, Excel, Matplotlib, Seaborn
 
 #### Soft Skills
-- Teaching, Leadership, Problem Solving, Content Development, Lesson Planning and Delivery
-- Online and Offline Engagement, Student Mentoring, Public Speaking
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Teaching-4CAF50?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Teaching" />
+  <img src="https://img.shields.io/badge/Mentoring-2196F3?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Student Mentoring" />
+  <img src="https://img.shields.io/badge/Leadership-FF9800?style=for-the-badge&logo=leader&logoColor=white" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Content%20Creation-E91E63?style=for-the-badge&logo=medium&logoColor=white" alt="Content Development" />
+  <img src="https://img.shields.io/badge/Public%20Speaking-FF5722?style=for-the-badge&logo=google-meet&logoColor=white" alt="Public Speaking" />
+</div>
 
 
 ## 📌 Featured Projects  
@@ -71,18 +85,29 @@ Dedicated and result-driven **Data Science Trainer** with strong expertise in **
 
 More notebooks in my pinned repos — feel free to explore & fork!
 
-
+ 
+---
 ### 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAHMACP&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHMACP&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAHMACP&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAHMACP&theme=dark" alt="Profile Details" height="180" />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding" width="400" />
 </div>
 
+---
+  
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahmacp)
 - 📧 Email: shahmarahiman6@gmail.com
@@ -91,22 +116,6 @@ More notebooks in my pinned repos — feel free to explore & fork!
 Thanks for stopping by! 🌟 If you find my work useful, give my repos a ⭐ or drop a message — I love discussing stats, ML, and data stories.
 
 Happy learning & analyzing! 📈
-
- 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHAHMACP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHAHMACP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAHMACP&theme=default" height="180em" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SHAHMACP&theme=default"/>
-
-
-  
-
-I love <strong>teaching data science</strong> and exploring <strong>real-world datasets</strong> to uncover patterns!  
-⭐ <strong>Feel free to check out my repositories and collaborate!</strong>
 
 
 
