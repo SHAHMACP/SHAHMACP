@@ -4,6 +4,14 @@
 
 <br>
 
+<div align="center">
+  <a href="https://shahmacp-datasciencetrainer.lovable.app">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Explore%20Full%20Profile-6366f1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Personal Portfolio" />
+  </a>
+</div>
+
+<br>
+
 Welcome to my GitHub!
 
 Dedicated and result-driven **Data Science Trainer** with strong expertise in **Statistics, Machine Learning, and Data Analytics**. Skilled in providing hands-on and engaging training with a focus on practical implementation, real-world case studies, and industry readiness. Adept in simplifying complex concepts and empowering learners through structured teaching methodologies and clear outcomes.
