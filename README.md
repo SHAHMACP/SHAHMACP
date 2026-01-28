@@ -4,31 +4,34 @@
 
 <br>
 
+Welcome to my GitHub!
 
+Dedicated and result-driven **Data Science Trainer** with strong expertise in **Statistics, Machine Learning, and Data Analytics**. Skilled in providing hands-on and engaging training with a focus on practical implementation, real-world case studies, and industry readiness. Adept in simplifying complex concepts and empowering learners through structured teaching methodologies and clear outcomes.
 
-### 🚀 Data Analyst | Statistics Trainer | Machine Learning Enthusiast  
+### 👩‍🏫 About Me
+- 🔭 **[Data Analyst & Trainer](https://github.com/SHAHMACP/Hypothesis-Testing)** — Delivering hands-on training in Python, Statistics, and Machine Learning
+- 🤖 **[Machine Learning Enthusiast](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies)** — Building models, clustering (PCA, DBSCAN), time series (ARIMA, Prophet), and computer vision basics
+- 📊 **[Data Storytelling](https://github.com/SHAHMACP/Exploratory-Data-Analysis-EDA-)** — Focusing on data preprocessing, feature selection, statistical analysis, and visualization tools
+- 🎓 **[Educator](https://github.com/SHAHMACP/Statistics-for-Data-Science)** — Creating learner-centric sessions, interactive content, and mentoring for real-world applications
+- 🌱 Currently exploring: Advanced ML workflows, image preprocessing, and interactive dashboards
+- 💼 **Portfolio**: Check out my projects on [GitHub](https://github.com/SHAHMACP)
 
-Welcome to my GitHub! I'm passionate about **data analysis, machine learning, and statistics**. As a **Statistics Trainer** and **Data Analyst**, I love exploring data, building models, and sharing knowledge.  
-
----
-
-## 🔍 About Me  
-- 📊 **[Data Analyst & Trainer](https://github.com/SHAHMACP/Hypothesis-Testing)**: Helping students and professionals understand data-driven decision-making.  
-- 🤖 **[Machine Learning Enthusiast](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies)**: Working on predictive modeling, clustering, and statistical forecasting.  
-- 🎓 **[Educator](https://github.com/SHAHMACP/Statistics-for-Data-Science)**  : Teaching probability, statistics, and machine learning concepts.
-- 📈 **[Data Storytelling](https://github.com/SHAHMACP/Exploratory-Data-Analysis-EDA-)**: I believe in making data insights accessible through visualizations and reports.  
-
+### 🌟 Highlights
+- 2+ years of experience in teaching and training AI/ML and Data Science concepts
+- Strong foundation in Statistics, Probability, and Data Analytics for real-world applications
+- Delivered hands-on training with end-to-end projects and mentoring for learners
+- Designing structured curriculum, assignments, and assessments, including the creation of effective teaching materials like presentations, cheat sheets, and content guides
+- Skilled in creating learner-centric and interactive training sessions
 ---
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/6f00f78b-3724-4fa0-875e-8fb466e12008)
 
+### 🛠️ Skills
 
-## 🛠️ Technologies & Skills  
-**Programming & Tools:**  
-- Python (Pandas, NumPy, Matplotlib, Scikit-Learn)  
-- SQL, Excel, Power BI  
-- Machine Learning & Statistical Modeling  
-- Time Series Forecasting  
-- Data Visualization & Storytelling  
+#### Technical Skills
+- Machine Learning, Statistics, Python, Scikit-learn, Data Analysis, Roboflow, Image Preprocessing, GitHub, Power BI, Tableau, LaTeX, Excel, Statistical Analysis
+- **Core Libraries**: Pandas, NumPy, Matplotlib/Seaborn
+- **ML Techniques**: Predictive modeling, clustering (K-Means, DBSCAN, PCA), regression, classification, time series forecasting (ARIMA, Moving Averages)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,7 +47,11 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 
----
+#### Soft Skills
+- Teaching, Leadership, Problem Solving, Content Development, Lesson Planning and Delivery
+- Online and Offline Engagement, Student Mentoring, Public Speaking
+
+
 
 ## 📌 Featured Projects  
 🔹 **[Forecasting Retail Demand](https://github.com/SHAHMACP/Tcs-ion-Rio-125--Forecasting-Retail-Demand-SHAHMA)**  : Built a forecasting system for retail demand prediction using **ARIMA, Moving Averages, and Time Series models**.  
@@ -54,12 +61,30 @@ Welcome to my GitHub! I'm passionate about **data analysis, machine learning, an
 
 🔹 **[EDA & Machine Learning Models](https://github.com/SHAHMACP/Risk-Assessment-and-Loan-Approval)**  : Exploratory Data Analysis and model building for structured datasets.  
 
----
+More notebooks in my pinned repos — feel free to explore & fork!
 
-## 📫 Connect with Me  
-- 💼 **[LinkedIn](www.linkedin.com/in/shahma-cp-bb972b184)**  
-- 📧 **Email:** shahmarahiman6@gmail.com  
 
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAHMACP&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHMACP&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahmacp)
+- 📧 Email: shahmarahiman6@gmail.com
+- 💬 Open to: collaborations on educational content, student queries, or data/ML projects
+
+Thanks for stopping by! 🌟 If you find my work useful, give my repos a ⭐ or drop a message — I love discussing stats, ML, and data stories.
+
+Happy learning & analyzing! 📈
+
+ 
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SHAHMACP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
