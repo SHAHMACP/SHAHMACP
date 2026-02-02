@@ -91,7 +91,7 @@ More notebooks in my pinned repos — feel free to explore & fork!
 
 <div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHAHMACP&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
