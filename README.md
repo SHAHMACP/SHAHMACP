@@ -91,10 +91,12 @@ More notebooks in my pinned repos — feel free to explore & fork!
 
 <div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SHAHMACP&theme=radical" />
+</p>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAHMACP&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAHMACP&theme=dark" alt="Profile Details" height="180" />
 
