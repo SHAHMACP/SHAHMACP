@@ -92,28 +92,7 @@ More notebooks in my pinned repos — feel free to explore & fork!
 
  
 ---
-### 📊 GitHub Stats & Activity
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SHAHMACP&theme=radical" />
-</p>
-
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHAHMACP&theme=dark" alt="Profile Details" height="180" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding" width="400" />
-</div>
-
----
   
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahmacp)
