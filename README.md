@@ -22,7 +22,7 @@ Dedicated and result-driven **Data Science Trainer** with strong expertise in **
 - 📊 **[Data Storytelling](https://github.com/SHAHMACP/Exploratory-Data-Analysis-EDA-)** — Focusing on data preprocessing, feature selection, statistical analysis, and visualization tools
 - 🎓 **[Educator](https://github.com/SHAHMACP/Statistics-for-Data-Science)** — Creating learner-centric sessions, interactive content, and mentoring for real-world applications
 - 🌱 Currently exploring: Advanced ML workflows, image preprocessing, and interactive dashboards
-- 💼 **Portfolio**: Check out my projects on [GitHub](https://github.com/SHAHMACP)
+- 💼 Check out my projects on [GitHub](https://github.com/SHAHMACP)
 
 ### 🌟 Highlights
 - 2+ years of experience in teaching and training AI/ML and Data Science concepts
