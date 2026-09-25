@@ -17,7 +17,7 @@ Welcome to my GitHub!
 Dedicated and result-driven **Data Science Trainer** with strong expertise in **Statistics, Machine Learning, and Data Analytics**. Skilled in providing hands-on and engaging training with a focus on practical implementation, real-world case studies, and industry readiness. Adept in simplifying complex concepts and empowering learners through structured teaching methodologies and clear outcomes.
 
 ### 👩‍🏫 About Me
-- 🔭 **[Data Analyst & Trainer](https://github.com/SHAHMACP/Hypothesis-Testing)** — Delivering hands-on training in Python, Statistics, and Machine Learning
+- 🔭 **[Data Science & Trainer](https://github.com/SHAHMACP/Hypothesis-Testing)** — Delivering hands-on training in Python, Statistics, and Machine Learning
 - 🤖 **[Machine Learning Enthusiast](https://github.com/SHAHMACP/Machine-Learning-Basics-and-Terminologies)** — Building models, clustering (PCA, DBSCAN), time series (ARIMA, Prophet), and computer vision basics
 - 📊 **[Data Storytelling](https://github.com/SHAHMACP/Exploratory-Data-Analysis-EDA-)** — Focusing on data preprocessing, feature selection, statistical analysis, and visualization tools
 - 🎓 **[Educator](https://github.com/SHAHMACP/Statistics-for-Data-Science)** — Creating learner-centric sessions, interactive content, and mentoring for real-world applications
